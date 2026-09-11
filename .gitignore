@@ -10,3 +10,5 @@
 /dbt/olist_db_proj/.user.yml
 /airflow/logs
 /airflow/dags/__pycache__
+/airflow/simple_auth_manager_passwords.json.generated
+/airflow/airflow.cfg
